@@ -51,7 +51,7 @@ with col1:
     st.write(' ')
 
 with col2:
-    st.image("logo.png")
+    st.image("image_ciné.png")
 
 with col3:
     st.write(' ')
