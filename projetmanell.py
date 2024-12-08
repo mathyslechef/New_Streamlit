@@ -63,7 +63,7 @@ selection = option_menu(
 
             menu_title=None,
 
-            options = ["Choix d'un acteur que vous appréciez", "Choix du genre et de la période du film"]
+            options = ["Vous préferez chercher par acteur !", "Vous préferez chercher par genre et période du film !"]
 
         )
 
