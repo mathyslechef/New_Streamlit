@@ -19,7 +19,7 @@ import pandas as pd
     #st.dataframe(df)
 
 # Ajout d'un fond sonore
-st.audio("mediavision.mp4", format="audio/mpeg")
+st.video("mediavision.mp4", format="audio/mpeg")
 
 # Ajout d'un fond d'écran
 page_element="""
