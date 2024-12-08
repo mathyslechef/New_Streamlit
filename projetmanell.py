@@ -68,7 +68,7 @@ selection = option_menu(
         )
 
 # Stratégie n°1 : choix de l'acteur
-if selection == "Choix d'un acteur que vous appréciez":
+if selection == "Vous préferez chercher par acteur !":
 
     st.markdown(
     """
@@ -97,7 +97,7 @@ if selection == "Choix d'un acteur que vous appréciez":
     #print(poster)
 
 # Stratégie n°2 : choix du genre et de la période du film
-elif selection == "Choix du genre et de la période du film":
+elif selection == "Vous préferez chercher par genre et période du film !":
 
     # Première partie : prise en compte du genre du film
     st.markdown(
